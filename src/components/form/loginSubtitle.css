@@ -1,0 +1,20 @@
+.form__subtitle {
+  margin: .5rem 0 0;
+  text-align: center;
+}
+
+.form__subtitle span {
+  padding: 0 .4rem;
+}
+
+.subtitle__link {
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 300;
+  color: #474747;
+  transition: all ease-in-out 0.2s;
+}
+
+.subtitle__link:hover {
+  color: #00adbb;
+}

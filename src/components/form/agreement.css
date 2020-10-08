@@ -1,0 +1,20 @@
+.form__agreement {
+  margin: 0.5rem 0 0;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.agreement__link {
+  text-decoration: none;
+  color: #00adbb;
+  transition: all ease-in-out 0.2s;
+}
+
+.agreement__link::before, .agreement__link::after {
+  content: ' ';
+}
+
+.agreement__link:hover {
+  color: #0056b3;
+}
